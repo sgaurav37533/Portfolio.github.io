@@ -1,5 +1,5 @@
 import React from 'react';
-import portfolio from '../data/portfolio';
+import portfolio from '../data/Portfolio';
 import PortfolioItem from './PortfolioItem';
 
 function Portfolio() {
